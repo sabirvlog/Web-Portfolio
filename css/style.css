@@ -232,6 +232,16 @@ h5{
 	flex-direction: column;
 	justify-content: center;
 }
+.contact a {
+	text-decoration: none;
+}
+.contact-me img {
+	width: 70px;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    margin-bottom: 20px;
+	
+}
 .contact-me p{
 	color: white;
 	font-size: 30px;
